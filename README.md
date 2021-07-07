@@ -6,4 +6,4 @@ To run it
 3.npm install
 Wait for it to install all the dependencies.
 ```
-After installing all the dependencies type `npm start` and head to your browser in (localhost:3000)[http://127.0.0.1:3000]
+After installing all the dependencies type `npm start` and head to your browser in [localhost:3000](http://127.0.0.1:3000)
