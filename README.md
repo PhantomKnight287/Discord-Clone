@@ -1,4 +1,7 @@
 # This is a Discord Clone created using react-app
+
+# To view how it looks like you can click [here](https://discord-clone-85f09.web.app)
+
 To run it
 ```
 1.Clone this repo
